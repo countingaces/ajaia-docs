@@ -17,7 +17,7 @@
 | Submission manifest | [SUBMISSION.md](./SUBMISSION.md) (this file) | Complete |
 | Supabase schema | [supabase-setup.sql](./supabase-setup.sql) | Complete |
 | Automated tests | [__tests__/api.test.js](./__tests__/api.test.js) | Complete |
-| Live deployment | _(URL to be added)_ | Pending |
+| Live deployment | https://ajaia-docs-pfr4rsd63-countingaces-projects.vercel.app | Complete |
 | Walkthrough video | _(URL to be added)_ | Pending |
 
 ## Features Implemented

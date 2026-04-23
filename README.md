@@ -4,7 +4,7 @@ A lightweight collaborative document editor built as part of the Ajaia Technical
 
 ## Live Demo
 
-**URL:** _(to be added after deployment)_
+**URL:** https://ajaia-docs-pfr4rsd63-countingaces-projects.vercel.app
 
 ### Test Accounts
 
@@ -43,7 +43,7 @@ The app uses seeded users (no passwords required). Click any user to log in:
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ajaia-docs.git
+   git clone https://github.com/countingaces/ajaia-docs.git
    cd ajaia-docs
    ```
 
