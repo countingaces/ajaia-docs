@@ -4,7 +4,7 @@ A lightweight collaborative document editor built as part of the Ajaia Technical
 
 ## Live Demo
 
-**URL:** https://ajaia-docs-pfr4rsd63-countingaces-projects.vercel.app
+**URL:** https://ajaia-docs-khaki.vercel.app
 
 ### Test Accounts
 
